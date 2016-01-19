@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">drone</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+
+
+
+    <string name="sdk_registration_message">SDK Registration Failed. Please check the bundle ID and your network connectivity</string>
+    <string name="external_device_recv_data">a</string>
+</resources>
